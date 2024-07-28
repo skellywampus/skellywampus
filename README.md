@@ -1,6 +1,6 @@
-##Privacy and Ethics Statement
+# Privacy and Ethics Statement
 
-##Privacy
+## Privacy
 
 - Your privacy is of utmost importance to me. I want to be clear about my practices regarding your data:
 
@@ -10,7 +10,7 @@
 
 - No Cookies: My software does not use cookies or any other tracking mechanisms.
 
-##Ethics
+## Ethics
 
 - I am committed to ethical practices in the development and distribution of my software:
 
@@ -22,7 +22,7 @@
 
 - Transparency: I am transparent about my practices and welcome any questions or concerns you may have. Feel free to contact me for more information.
 
-##Commitment to Users
+## Commitment to Users
 
 - My commitment to privacy and ethical practices is steadfast. I prioritize your trust and strive to maintain a relationship based on transparency and respect.
 
