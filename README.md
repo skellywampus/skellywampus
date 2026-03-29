@@ -26,3 +26,8 @@
 
 - My commitment to privacy and ethical practices is steadfast. I prioritize your trust and strive to maintain a relationship based on transparency and respect.
 
+## Development Disclosure [Generative AI]
+
+- Generative AI tools are used as a development aid.
+
+- All generated code is reviewed, tested, and validated prior to release. No code is published without human verification. I retain full responsibility for all final implementations.
